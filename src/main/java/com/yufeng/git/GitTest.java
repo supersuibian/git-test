@@ -1,9 +1,7 @@
 package com.yufeng.git;
 
 /**
- * @Author yf
- * @Version 0.1
- * @Description
+ * @author yf
  */
 public class GitTest {
     public static void main(String[] args) {
